@@ -6,6 +6,8 @@
 🔎 Focus on cybersecurity and privacy  
 🗺️ Roaming the world of open source  
 
+<!-- Badge generator https://github.com/developStorm/simple-badges  -->
+
 ### Tech Stack
 ![Python](https://shields-staging-pr-6591.herokuapp.com/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square) 
 ![Java](https://shields-staging-pr-6591.herokuapp.com/badge/Java-007396?logo=java&logoColor=fff&style=flat-square) 
