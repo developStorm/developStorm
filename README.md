@@ -63,8 +63,7 @@
 <p align='right'>
   <i>
     <sub>
-      *Statistics may not match up with works visible to you <br>
-      as most of course-related projects are hidden to respect university's honor code
+      *Statistics may include data from unpublished course or research-related projects.
     </sub>
   </i>
 </p>
