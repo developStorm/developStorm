@@ -50,12 +50,13 @@
 #### Learning
 ![C++](https://shields-staging-pr-6591.herokuapp.com/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
 ![go](https://shields-staging-pr-6591.herokuapp.com/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square) 
-![LaTeX](https://shields-staging-pr-6591.herokuapp.com/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square) 
-![Flask](https://shields-staging-pr-6591.herokuapp.com/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square)
-![PostgreSQL](https://shields-staging-pr-6591.herokuapp.com/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
 ![R](https://shields-staging-pr-6591.herokuapp.com/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
-![MariaDB](https://shields-staging-pr-6591.herokuapp.com/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square) 
+![Flask](https://shields-staging-pr-6591.herokuapp.com/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square)
 ![Vue](https://shields-staging-pr-6591.herokuapp.com/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square)
+![PostgreSQL](https://shields-staging-pr-6591.herokuapp.com/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
+![MariaDB](https://shields-staging-pr-6591.herokuapp.com/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square)
+![LaTeX](https://shields-staging-pr-6591.herokuapp.com/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square)
+![GraphQL](https://shields-staging-pr-6591.herokuapp.com/badge/GraphQL-E434AA?logo=graphql&logoColor=fff&style=flat-square)
 
 
 
