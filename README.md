@@ -1,4 +1,4 @@
-<img align='right' src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=developStorm&layout=compact&hide=scss&langs_count=10&theme=ayu-mirage&hide_border=true&exclude_repo=simple-badges&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR' width='350px'>
+<img align='right' src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=developStorm&layout=compact&hide=css,scss&langs_count=10&theme=ayu-mirage&hide_border=true&exclude_repo=simple-badges&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR' width='350px'>
 
 
 ### Hi there! Welcome 👋
