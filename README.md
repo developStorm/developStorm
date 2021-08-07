@@ -57,6 +57,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square#956f2e0)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square#956f2e0)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=fff&style=flat-square#956f2e0)
+![LLVM Badge](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=fff&style=flat-square)
 
 
 
