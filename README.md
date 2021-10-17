@@ -1,16 +1,17 @@
 <img align='right' src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=developStorm&layout=compact&hide=css,scss,ActionScript&langs_count=10&theme=ayu-mirage&hide_border=true&custom_title=Languages%20Used%20(By%20File%20Size)&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=simple-badges'>
 
 
-### Hi there! Welcome 👋
-👨‍🎓 Computer science undergraduate student  
-🔎 Focus on cybersecurity and privacy  
-🗺️ Roaming the world of open source  
+### Hi there 👋 I'm ...
+👨‍🎓 A computer science undergraduate student  
+🔎 Focusing on cybersecurity and privacy  
+❤️ Love software engineering and technology
 
 <!-- Badge generator https://github.com/developStorm/simple-badges  -->
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square#956f2e0) 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat-square#956f2e0) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square#956f2e0)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square#956f2e0) 
 ![NodeJS](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square#956f2e0)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff&style=flat-square#956f2e0)
@@ -42,13 +43,10 @@
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat-square#956f2e0)
 
 <!-- ![WebAuthn](https://img.shields.io/badge/WebAuthn-3423A6?logo=webauthn&logoColor=fff&style=flat-square#956f2e0) -->
-<!-- ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=fff&style=flat-square#956f2e0) -->
-<!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=flat-square#956f2e0) -->
 <!-- ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=flat-square#956f2e0)  -->
 
 
 #### Learning
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square#956f2e0)
 ![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square#956f2e0) 
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square#956f2e0)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square#956f2e0)
