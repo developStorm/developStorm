@@ -21,7 +21,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square#956f2e0)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat-square#956f2e0)
 ![Actions](https://img.shields.io/badge/Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square#956f2e0)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square#956f2e0)
+![Mongo](https://img.shields.io/badge/Mongo-47A248?logo=mongodb&logoColor=fff&style=flat-square#956f2e0)
 ![Wireguard](https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=fff&style=flat-square#956f2e0)  
 ![macOS](https://img.shields.io/badge/macOS-000?logo=apple&logoColor=fff&style=flat-square#956f2e0)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square#956f2e0) 
