@@ -48,7 +48,7 @@
 
 #### Learning
 ![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square#956f2e0) 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square#956f2e0)
+![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square#956f2e0)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square#956f2e0)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square#956f2e0)
