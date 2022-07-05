@@ -10,7 +10,7 @@
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square#956f2e0) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat-square#956f2e0) 
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=fff&style=flat-square#956f2e0) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square#956f2e0)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square#956f2e0) 
 ![NodeJS](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat-square#956f2e0)
@@ -47,16 +47,18 @@
 
 
 #### Learning
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square#956f2e0) 
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square#956f2e0)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square#956f2e0)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square#956f2e0)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square#956f2e0)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square#956f2e0)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?logo=graphql&logoColor=fff&style=flat-square#956f2e0)
 ![LLVM Badge](https://img.shields.io/badge/LLVM-262D3A?logo=llvm&logoColor=fff&style=flat-square)
 
+
+<!-- ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff&style=flat-square#956f2e0)  -->
 
 
 
