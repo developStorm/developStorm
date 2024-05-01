@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 I'm ...
-👨‍🎓 A computer science master’s student
+👨‍🎓 A computer science master’s student  
 🔎 Focusing on cybersecurity and privacy  
 ❤️ Love software engineering and technology
 
