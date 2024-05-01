@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋 I'm ...
-👨‍🎓 A computer science undergraduate student  
+👨‍🎓 A computer science master’s student
 🔎 Focusing on cybersecurity and privacy  
 ❤️ Love software engineering and technology
 
@@ -40,17 +40,17 @@
 ![Office 365](https://img.shields.io/badge/Office%20365-D83B01?logo=microsoftoffice&logoColor=fff&style=flat-square#956f2e0) 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square#956f2e0)
 ![Audition](https://img.shields.io/badge/Adobe%20Audition-6CBDAD?logo=adobeaudition&logoColor=fff&style=flat-square#956f2e0)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat-square#956f2e0)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=flat-square#956f2e0)  
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 
 <!-- ![WebAuthn](https://img.shields.io/badge/WebAuthn-3423A6?logo=webauthn&logoColor=fff&style=flat-square#956f2e0) -->
 <!-- ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?logo=minecraft&logoColor=fff&style=flat-square#956f2e0)  -->
 
 
 #### Learning
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square)
 ![go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat-square#956f2e0) 
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square#956f2e0)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=flat-square#956f2e0)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat-square#956f2e0)
